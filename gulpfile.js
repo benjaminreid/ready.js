@@ -1,6 +1,7 @@
 var gulp = require('gulp');
 var uglify = require('gulp-uglify');
 var rename = require('gulp-rename');
+require('gulp-release-tasks')(gulp);
 
 gulp.task('copy', function() {
   gulp.src('./src/ready.js')
