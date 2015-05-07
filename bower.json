@@ -1,0 +1,26 @@
+{
+  "name": "ready.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nouveller/ready.js",
+  "authors": [
+    "Benjamin Reid <benjamin@nouveller.com>"
+  ],
+  "description": "Takes the pain out of writing conditional initialisation code",
+  "main": "dist/ready.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "ready",
+    "dry",
+    "initialisation"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
