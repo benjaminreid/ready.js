@@ -1,6 +1,32 @@
 # ready.js
 Takes the pain out of writing conditional initialisation code.
 
+## Contents
+* [What does ready.js do?](#what-does-readyjs-do)
+* [Installation](#installation)
+* [Coming soon](#coming-soon)
+
+## Installation
+
+### Bower
+
+`ready.js` is available as a Bower package and can be installed with the following command.
+
+```
+bower install --save ready.js
+```
+
+If you're using [ck86/main-bower-files](https://github.com/ck86/main-bower-files) to automatically load in packages from Bower in your build process, that's covered too.
+
+### Manually
+
+You can also install `ready.js` manually by grabbing the contents of `dist/ready.js` or `dist/ready.min.js` and including them above your main JavaScript file in your page. It has no dependencies so as long as it's loaded before your first `ready` call, you're good to go. 
+
+```
+<script src="/path/to/ready.js"><script>
+<script src="/path/to/main.js"></script>
+```
+
 ## What does ready.js do?
 
 `ready.js` gives you a simple way to ~~pretty~~ DRY up your initialisation code. Take this piece of code for example.
