@@ -2,8 +2,8 @@
 Takes the pain out of writing conditional initialisation code.
 
 ## Contents
-* [What does ready.js do?](#what-does-readyjs-do)
 * [Installation](#installation)
+* [What does ready.js do?](#what-does-readyjs-do)
 * [Coming soon](#coming-soon)
 * [TL;DR](#tldr)
 
