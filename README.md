@@ -43,3 +43,7 @@ ready('.bazs', function(baz) {
 ```
 
 `ready.js` will get the DOM elements for you, check if they exist, and if so, fire your initialisation code in it's callback. It can handle a single element or a collection of elements too.
+
+## Coming soon
+
+Please check the [v1.0 release](https://github.com/nouveller/ready.js/milestones/v1.0%20release) milestone for things to come.
