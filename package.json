@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/nouveller/ready.js/issues"
   },
-  "homepage": "https://github.com/nouveller/ready.js"
+  "homepage": "https://github.com/nouveller/ready.js",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
 }
