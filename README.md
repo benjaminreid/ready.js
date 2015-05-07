@@ -5,6 +5,7 @@ Takes the pain out of writing conditional initialisation code.
 * [What does ready.js do?](#what-does-readyjs-do)
 * [Installation](#installation)
 * [Coming soon](#coming-soon)
+* [TL;DR](#tldr)
 
 ## Installation
 
@@ -73,3 +74,9 @@ ready('.bazs', function(baz) {
 ## Coming soon
 
 Please check the [v1.0 release](https://github.com/nouveller/ready.js/milestones/v1.0%20release) milestone for things to come.
+
+## TL;DR
+
+When you're not using `ready.js`.
+
+![Not ready](https://cloud.githubusercontent.com/assets/713128/7526823/5a376a48-f50d-11e4-90c2-3e41c1849aef.gif)
