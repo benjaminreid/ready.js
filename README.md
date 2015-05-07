@@ -1,6 +1,15 @@
 # ready.js
 Takes the pain out of writing conditional initialisation code.
 
+## Contents
+* [What does ready.js do?](#what-does-readyjs-do)
+* [Installation](#installation)
+* [Coming soon](#coming-soon)
+
+## Installation
+
+Installation notes...
+
 ## What does ready.js do?
 
 `ready.js` gives you a simple way to ~~pretty~~ DRY up your initialisation code. Take this piece of code for example.
