@@ -1,0 +1,24 @@
+{
+  "name": "ready.js",
+  "version": "0.0.1",
+  "description": "Takes the pain out of writing conditional initialisation code",
+  "main": "src/ready.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nouveller/ready.js.git"
+  },
+  "keywords": [
+    "ready",
+    "dry",
+    "initialisation"
+  ],
+  "author": "Benjamin Reid <benjaminreid.nouveller@gmail.com> (http://nouveller.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nouveller/ready.js/issues"
+  },
+  "homepage": "https://github.com/nouveller/ready.js"
+}
