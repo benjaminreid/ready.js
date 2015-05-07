@@ -2,7 +2,7 @@
   "name": "ready.js",
   "version": "0.0.0",
   "description": "Takes the pain out of writing conditional initialisation code",
-  "main": "src/ready.js",
+  "main": "dist/ready.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
