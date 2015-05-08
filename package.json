@@ -1,6 +1,7 @@
 {
   "name": "ready.js",
   "version": "0.1.0",
+  "filename": "ready.min.js",
   "description": "Takes the pain out of writing conditional initialisation code",
   "main": "dist/ready.js",
   "repository": {
