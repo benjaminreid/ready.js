@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "Takes the pain out of writing conditional initialisation code",
   "main": "dist/ready.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/nouveller/ready.js.git"
