@@ -28,6 +28,10 @@ You can also install `ready.js` manually by grabbing the contents of `dist/ready
 <script src="/path/to/main.js"></script>
 ```
 
+### CDNJS
+
+`ready.js` is also available cdnjs, [grab it here](https://cdnjs.com/libraries/ready.js).
+
 ## What does ready.js do?
 
 `ready.js` gives you a simple way to ~~pretty~~ DRY up your initialisation code. Take this piece of code for example.
