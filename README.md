@@ -4,6 +4,7 @@ Takes the pain out of writing conditional initialisation code.
 ## Contents
 * [Installation](#installation)
 * [What does ready.js do?](#what-does-readyjs-do)
+* [Demo](#demo)
 * [Coming soon](#coming-soon)
 * [TL;DR](#tldr)
 
@@ -74,6 +75,10 @@ ready('.bazs', function(baz) {
 ```
 
 `ready.js` will get the DOM elements for you, check if they exist, and if so, fire your initialisation code in it's callback. It can handle a single element or a collection of elements too.
+
+## Demo
+
+[View the demo on Codepen](http://codepen.io/nouveller/pen/gpPJzw).
 
 ## Coming soon
 
