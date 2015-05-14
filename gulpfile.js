@@ -29,9 +29,10 @@ gulp.task('prepare-spec', function() {
 });
 
 gulp.task('spec', ['prepare-spec'], function() {
-  gulp.src('./spec')
+  gulp.src('./')
     .pipe(webserver({
-      open: true
+      livereload: true,
+      open: 'spec'
     }));
 });
 
