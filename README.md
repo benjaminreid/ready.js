@@ -20,6 +20,14 @@ bower install --save ready.js
 
 If you're using [ck86/main-bower-files](https://github.com/ck86/main-bower-files) to automatically load in packages from Bower in your build process, that's covered too.
 
+### NPM
+
+You can install this with NPM by running the following command.
+
+```
+npm install @benjaminreid/ready.js --save
+```
+
 ### Manually
 
 You can also install `ready.js` manually by grabbing the contents of `dist/ready.js` or `dist/ready.min.js` and including them above your main JavaScript file in your page. It has no dependencies so as long as it's loaded before your first `ready` call, you're good to go. 
